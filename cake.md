@@ -14,7 +14,7 @@
   <main>
       <section> 
             <h2>Inroduction</h2>
-            <span title="Sussncream cake"><img src="https://cdn.glitch.com/814124bf-2623-45fa-8733-16e312e9fdf4%2Fthumbnails%2FCakes.jpg?1601748264608" alt="A cake by SUSSNCREAM" width="200"></span>
+            <span title="Sussncream cake"><img src="/Cake/Cakes.jpg" alt="A cake by SUSSNCREAM" width="200"></span>
         <p><strong><i>Cake</i></strong> is a form of sweet food made from flour, sugar, milk and other ingredients, that is usually baked. In the oldest forms, cakes were modifications of bread, but cakes now cover a wide range of preparations that can be simple or elaborate, and that share features with other deserts such as <a href="https://en.wikipedia.org/wiki/List_of_pastries">pastries</a>, <a href="https://en.wikipedia.org/wiki/Meringue">meringues</a>, <a href="https://en.wikipedia.org/wiki/Custard">custards</a>, and <a href="https://en.wikipedia.org/wiki/Pie">pies</a>.</p>
       </section>
     
